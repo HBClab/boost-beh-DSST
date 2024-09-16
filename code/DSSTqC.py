@@ -1,8 +1,5 @@
 
-<<<<<<< HEAD
-=======
 # run Quality Check against new sub data
->>>>>>> d2216bd41e297886bb5f25ee37a8623efde8bebc
 
 import os
 import sys
@@ -135,8 +132,4 @@ def main():
     
     
 if __name__ == '__main__':
-<<<<<<< HEAD
     main()
-=======
-    main()
->>>>>>> d2216bd41e297886bb5f25ee37a8623efde8bebc
